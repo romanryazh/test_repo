@@ -4,5 +4,8 @@ def hello(name):
 def bye(name):
     print('bye' + ' ' + str(name))
 
-hello('yep')
-bye('yep')
+def main():
+    hello('yep')
+    bye('yep')
+
+main()
