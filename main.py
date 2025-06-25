@@ -4,6 +4,8 @@ def hello(name):
 def bye(name):
     print('bye' + ' ' + str(name))
 
+# Сделай что-нибудь прикольное!
+
 def main():
     hello('yep')
     bye('yep')
