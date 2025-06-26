@@ -4,6 +4,7 @@ def hello(name):
 def bye(name):
     print('bye' + ' ' + str(name))
 
+# добавил!
 def new_feature():
     print('its a new feature!')
 
